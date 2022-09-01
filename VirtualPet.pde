@@ -5,7 +5,7 @@ void draw(){
   background(#1ABBEA);
   noStroke();
   fill (#676767);
-  arc(cx, cy, 100, 800,-QUARTER_PI,0);//tail
+  arc(820, 1000, 100, 800,-QUARTER_PI,0);//tail
   triangle(500,220,350,260,270,90);
   triangle(500,220,650,260,730,90);
   fill (#BCBCBC);
